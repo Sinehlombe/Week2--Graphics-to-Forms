@@ -6,4 +6,5 @@ HTML Working with Graphics and Images
       -we have the width
       -height attributes, which determine the size of the image
     Image Formats
+    
       
