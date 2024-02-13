@@ -22,7 +22,13 @@ GIFs are great for compressing illustrations that have large areas of the same c
 
 -PNG
   -PNG is a newer format that works well when you need transparency in a photograph. It sometimes outperforms both GIF and JPG in compressing certain types of images.
-    
+
+Responsive images
+  -when resizing images, the size can be ideal for phone devices. When you load it on a pc, the picture can com across as a blurry picture . Responsive images come to this aid.  
+    -HTML allows us to deliver different image files to screens of different sizes. We can create multiple image files and include them as options in our HTML code. Then, the browser, in collaboration with the operating system, takes into account the device's hardware capabilities and network speed to decide which image to download. 
+    -create multiple copies of an image with different resolutions and inform the browser about these options. Then, the device can choose which image to use based on factors like screen density, network connection, and user settings. Even if someone has a high-resolution screen, the browser might opt to download a lower-resolution image.
+
+
 HTML Content Identification
   -HTML Language Support
      - tools to indicate the language of your content. 
